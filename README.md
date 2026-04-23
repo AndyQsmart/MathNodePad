@@ -1,3 +1,3 @@
 # MathNotePad
 
-version: 1.1.55
+version: 1.1.56
